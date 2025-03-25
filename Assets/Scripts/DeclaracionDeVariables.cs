@@ -18,9 +18,9 @@ public class DeclaracionDeVariables : MonoBehaviour
         compuHabilitada = false;
 
         Debug.Log(cantidadAlumnos);
-        Debug.log(magnitudTerremoto);
-        Debug.log(nombreAlumno);
-        Debug.log(compuHabilitada);
+        Debug.Log(magnitudTerremoto);
+        Debug.Log(nombreAlumno);
+        Debug.Log(compuHabilitada);
     }
 
     // Update is called once per frame
